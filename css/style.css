@@ -10,3 +10,11 @@ html, .fullscreen {
   width: 100%;
 }
 
+.container {
+  margin: auto;
+  text-align: center;
+}
+
+.titie {
+  font-size: 3rem;
+}
