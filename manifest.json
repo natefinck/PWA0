@@ -31,6 +31,11 @@
     "sizes": "512x512",
     "type": "image/png",
     "purpose": "any"
+  }, {
+    "src": "images/hello-icon-196maskable",
+    "sizes": "196x196",
+    "type": "image/png",
+    "purpose": "any"
   }],
   "start_url": "/PWA0/index.html",
   "display": "standalone",
