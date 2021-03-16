@@ -31,7 +31,7 @@
     "sizes": "512x512",
     "type": "image/png",
     "purpose": "any"
-  }]
+  }],
   "start_url": "/PWA0/index.html",
   "display": "standalone",
   "prefer_related_applications": false,
