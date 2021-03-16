@@ -30,12 +30,12 @@
     "src": "images/hello-icon-512.png",
     "sizes": "512x512",
     "type": "image/png",
-    "purpose": "any maskable"
+    "purpose": "any"
   }, {
     "src": "images/hello-icon-196maskable.png",
     "sizes": "196x196",
     "type": "image/png",
-    "purpose": "any"
+    "purpose": "any maskable"
   }],
   "start_url": "/PWA0/index.html",
   "display": "standalone",
